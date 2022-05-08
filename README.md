@@ -1,5 +1,5 @@
 <p align="center">
-<h1>:open_book: DAO 相关开源工具精选中文版 :open_book:</h1>
+:open_book: DAO 相关开源工具精选中文版 :open_book:
 </p>
 
 <hr>
