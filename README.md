@@ -38,40 +38,40 @@
 
 ## 目录
 
-- [DAO 列表]()
-- [投票工具]()
-- [反女巫攻击]()
-- [DAO 教育]()
-- [智能合约]()
-- [国库管理]()
-- [建立 DAO]()
-- [DAO 工具]()
-- [DAO 仪表板]()
+- [DAO 列表](#dao-列表)
+- [投票工具](#投票工具)
+- [反女巫攻击](#反女巫攻击)
+- [智能合约](#智能合约)
+- [国库管理](#国库管理)
+- [DAO 产生器](#DAO-产生器)
+- [DAO 工具](#DAO-工具)
+- [仪表板](#仪表板)
 
 ## DAO 列表
 
 能列出所有 DAO 的地方
 
-- [deepdao.io/]
-- [coinmarketcap.com/view/dao/]
-- [defirate.com]
-- [https://ecosystem.daoincubator.org/wiki/dao]
-- [https://openorgs.info/]
+- [deepdao.io](http://deepdao.io/organizations) - 去中心化信息分析平台 DeepDAO
+- [coinmarketcap.com/view/dao/](https://coinmarketcap.com/view/dao/) - 由市值大小排序的 DAO 排行榜
+- [defirate.com](https://defirate.com) - DeFi DAO 的讯息平台
+- [DAOs list - DAO Incubator](https://ecosystem.daoincubator.org/wiki/dao) - 由一群建设者、研究人员、设计师和专家组成的平台，致力于使当前 DAO 更具功能性
+- [OpenOrgs.info](https://openorgs.info/) - OpenOrgs.info 提供了详细的 DAO 金库数据信息
 
 ## 投票工具
 
-- [https://www.withtally.com/]
-- [https://snapshot.org/]
-- [Delegate votes methods]
+- [https://www.withtally.com/](https://www.withtally.com/)
+- [https://snapshot.org/](https://snapshot.org/)
 
 ## 反女巫攻击
 
 - [BrightId AntiSybil package](https://github.com/BrightID/BrightID-AntiSybil)
-- [Uniswap sybil interface](https://github.com/Uniswap/sybil-interface) Interface that incorporates Sybil, a governance tool for discovering delegates.
+- [Uniswap sybil interface](https://github.com/Uniswap/sybil-interface) - 用于挖掘潜在投票代理的治理工具，并面对可能的女巫攻击
     - [sybil.org](https://github.com/windranger-io/awesome-dao/blob/main/sybil.org)
-- [sybil verifier worker](https://github.com/Uniswap/sybil-verifier-worker) Cloudlfare worker to verify mappings for Sybil, a governance tool for delegates.
+- [sybil verifier worker](https://github.com/Uniswap/sybil-verifier-worker)
 - [SourceCred](https://sourcecred.io/)
-- [Pando](https://github.com/pandonetwork/pando) A distributed remote protocol for git based on IPFS, ethereum and aragonOS
+- [Pando](https://github.com/pandonetwork/pando) - 基于 IPFS、ethereum 和 aragonOS 的 git 分布式远程协议
+
+## 
 
 ## :wave: Contribute
 
