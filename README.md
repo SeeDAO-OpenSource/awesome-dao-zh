@@ -22,9 +22,9 @@
 
 :wave: :wave: GitHub 上有许多以 "Awesome-XXX" 命名的项目，主要是为了发扬 [Awesome 清单](https://github.com/sindresorhus/awesome/blob/master/awesome.md) 的开源精神，欢迎加入一起编写与修改此条目。
 
-###　收录标准
+### :balance_scale:	收录标准
 
-- 主要请聚焦在 DAO 有关之工具、代码方面的开发资源，请勿张贴关于 DAO 研究与行业调研资讯
+- :warning:	主要请聚焦在 DAO 有关之工具、代码方面的开发资源，请勿张贴关于 DAO 研究与行业调研资讯
 
 ### :sunglasses: 其他 Awesome
 
