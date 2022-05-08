@@ -18,9 +18,13 @@
     </a>
 </p>
 
-本列表主要搜集各种与 DAO 的经营、运作相关的开源工具与学习资源，欢迎提出 PR 与相关建议，更多请阅读 [贡献指南](CONTRIBUTING.md)，本文件以 [Unlicense](https://unlicense.org) 释出。( [什么是 DAO?](https://zh.m.wikipedia.org/zh-cn/分布式自治组织) )　
+本列表主要搜集各种与 DAO 的经营、运作相关的开源工具与学习资源，欢迎提出 PR 与相关建议，更多请阅读 [贡献指南](CONTRIBUTING.md)，本文件以 [Unlicense](https://unlicense.org) 释出。[什么是 DAO?](https://zh.m.wikipedia.org/zh-cn/分布式自治组织)
 
 :wave: :wave: GitHub 上有许多以 "Awesome-XXX" 命名的项目，主要是为了发扬 [Awesome 清单](https://github.com/sindresorhus/awesome/blob/master/awesome.md) 的开源精神，欢迎加入一起编写与修改此条目。
+
+###　收录标准
+
+- 主要请聚焦在 DAO 有关之工具、代码方面的开发资源，请勿张贴关于 DAO 研究与行业调研资讯
 
 ### :sunglasses: 其他 Awesome
 
@@ -41,12 +45,10 @@
 - [反女巫攻击]()
 - [DAO 教育]()
 - [智能合约]()
-- [国库管理](Treasury)
-- [DAO 产生器](Makers)
-- [建立 DAO](DAO Creation)
-- [DAO 工具](DAO Tools)
+- [国库管理]()
+- [建立 DAO]()
+- [DAO 工具]()
 - [DAO 仪表板]()
-- Awesome lists
 
 ## DAO 列表
 
