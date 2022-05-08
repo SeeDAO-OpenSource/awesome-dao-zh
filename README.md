@@ -20,13 +20,11 @@
 
 本列表主要搜集各种与 DAO 的经营、运作相关的开源工具与学习资源，欢迎提出 PR 与相关建议，更多请阅读 [贡献指南](CONTRIBUTING.md)，本文件以 [Unlicense](https://unlicense.org) 释出。[什么是 DAO?](https://zh.m.wikipedia.org/zh-cn/分布式自治组织)
 
-:wave: :wave: GitHub 上有许多以 "Awesome-XXX" 命名的项目，主要是为了发扬 [Awesome 清单](https://github.com/sindresorhus/awesome/blob/master/awesome.md) 的开源精神，欢迎加入一起编写与修改此条目。
-
 ### :balance_scale:	收录标准
 
-- :warning:	主要请聚焦在 DAO 有关之工具、代码方面的开发资源，请勿张贴关于 DAO 研究与行业调研资讯
+:warning: 主要请聚焦在 DAO 有关之工具、代码方面的开发资源，请勿张贴关于 DAO 研究与行业调研资讯
 
-### :sunglasses: 其他 Awesome
+## :sunglasses: 其他 Awesome
 
 本文件会不定期从国际上 DAO 相关 Awesome 清单中更新资料过来，例如：
 - [DAOresearch/awesome-daos](https://github.com/DAOresearch/awesome-daos) (已停止更新)
@@ -74,6 +72,10 @@
 - [sybil verifier worker](https://github.com/Uniswap/sybil-verifier-worker) Cloudlfare worker to verify mappings for Sybil, a governance tool for delegates.
 - [SourceCred](https://sourcecred.io/)
 - [Pando](https://github.com/pandonetwork/pando) A distributed remote protocol for git based on IPFS, ethereum and aragonOS
+
+## :wave: Contribute
+
+GitHub 上有许多以 "Awesome-XXX" 命名的项目，主要是为了发扬 [Awesome 清单](https://github.com/sindresorhus/awesome/blob/master/awesome.md) 的开源精神，欢迎加入一起编写与修改此条目。
 
 ## License
 
