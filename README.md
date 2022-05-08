@@ -1,4 +1,8 @@
-# :open_book: DAO 相关开源工具精选中文版 :open_book:
+<p align="center">
+<h1>:open_book: DAO 相关开源工具精选中文版 :open_book:</h1>
+</p>
+
+<hr>
 
 <p align="center">
     <a href="https://github.com/sindresorhus/awesome">
@@ -12,19 +16,17 @@
         <img src="https://img.shields.io/github/stars/SeeDAO-OpenSource/awesome-dao-zh.svg"
              alt="stars">
     </a>
-    <a href="https://creativecommons.org/publicdomain/zero/1.0/">
+    <a href="https://unlicense.org">
         <img src="https://img.shields.io/badge/license-unlicense-blue"
              alt="license">
     </a>
 </p>
 
-> :globe_with_meridians: DAO 全称为 **分布式自治组织（DAO, decentralized autonomous organization）** 是一个以公开透明的计算机代码来体现的组织，其受控于利益关系人，并不受中央政府影响。一个分布式自治组织的金融交易记录和程序规则是保存在区块链中的。
+本列表主要搜集各种与 DAO 的经营、运作相关的开源工具与学习资源，欢迎提出 PR 与相关建议，更多请阅读 [贡献指南](CONTRIBUTING.md)，本文件以 [Unlicense](https://unlicense.org) 释出。( [什么是 DAO?](https://zh.m.wikipedia.org/zh-cn/分布式自治组织) )　
 
-本列表主要搜集各种与 DAO 的经营、运作相关的开源工具与学习资源，欢迎提出 PR 与相关建议，更多请阅读 [贡献指南](CONTRIBUTING.md)。本文件以 Unlicense 释出。　
+:wave: :wave: GitHub 上有许多以 "Awesome-XXX" 命名的项目，主要是为了发扬 [Awesome 清单](https://github.com/sindresorhus/awesome/blob/master/awesome.md) 的开源精神，欢迎加入一起编写与修改此条目。
 
-GitHub 上有许多以 "Awesome-XXX" 命名的项目，主要是为了发扬 [Awesome 清单](https://github.com/sindresorhus/awesome/blob/master/awesome.md) 的开源精神，欢迎加入一起编写与修改此条目。
-
-### 其他 Awesome
+### :sunglasses: 其他 Awesome
 
 本文件会不定期从国际上 DAO 相关 Awesome 清单中更新资料过来，例如：
 - [DAOresearch/awesome-daos](https://github.com/DAOresearch/awesome-daos) (已停止更新)
@@ -36,13 +38,46 @@ GitHub 上有许多以 "Awesome-XXX" 命名的项目，主要是为了发扬 [Aw
 - [dily3825002/awesome-ethereum-cn](https://github.com/dily3825002/awesome-ethereum-cn) - 以太坊开发资源汇总
 - [houbb/awesome-metaverse-zh](https://github.com/houbb/awesome-metaverse-zh) - 关于 Metaverse 的精彩项目和信息资源列表
 
-## 列表
+## 目录
 
-TBD
+- [DAO 列表]()
+- [投票工具]()
+- [反女巫攻击]()
+- [DAO 教育]()
+- [智能合约]()
+- [国库管理](Treasury)
+- [DAO 产生器](Makers)
+- [建立 DAO](DAO Creation)
+- [DAO 工具](DAO Tools)
+- [DAO 仪表板]()
+- Awesome lists
 
+## DAO 列表
+
+能列出所有 DAO 的地方
+
+- [deepdao.io/]
+- [coinmarketcap.com/view/dao/]
+- [defirate.com]
+- [https://ecosystem.daoincubator.org/wiki/dao]
+- [https://openorgs.info/]
+
+## 投票工具
+
+- [https://www.withtally.com/]
+- [https://snapshot.org/]
+- [Delegate votes methods]
+
+## 反女巫攻击
+
+- [BrightId AntiSybil package](https://github.com/BrightID/BrightID-AntiSybil)
+- [Uniswap sybil interface](https://github.com/Uniswap/sybil-interface) Interface that incorporates Sybil, a governance tool for discovering delegates.
+    - [sybil.org](https://github.com/windranger-io/awesome-dao/blob/main/sybil.org)
+- [sybil verifier worker](https://github.com/Uniswap/sybil-verifier-worker) Cloudlfare worker to verify mappings for Sybil, a governance tool for delegates.
+- [SourceCred](https://sourcecred.io/)
+- [Pando](https://github.com/pandonetwork/pando) A distributed remote protocol for git based on IPFS, ethereum and aragonOS
 
 ## License
 
-![](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)  
-本文以 [CC0](https://creativecommons.org/publicdomain/zero/1.0/) 授权释出
+[Unlicense](https://unlicense.org)
 
