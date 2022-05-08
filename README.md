@@ -1,10 +1,6 @@
-<p align="center">
-:open_book: DAO 相关开源工具精选中文版 :open_book:
-</p>
+# :open_book: DAO 相关开源工具精选中文版 :open_book:
 
-<hr>
-
-<p align="center">
+<p align="left">
     <a href="https://github.com/sindresorhus/awesome">
         <img src="https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" />
     </a>
