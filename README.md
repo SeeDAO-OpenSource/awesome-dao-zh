@@ -43,10 +43,12 @@
 - [DAO 列表](#dao-列表)
 - [投票工具](#投票工具)
 - [反女巫攻击](#反女巫攻击)
+- [教育学习](#教育学习)
 - [合约开发](#合约开发)
 - [国库管理](#国库管理)
 - [DAO 产生器](#DAO-产生器)
 - [DAO 工具](#DAO-工具)
+- [社群经营](#社群经营)
 - [仪表板](#仪表板)
 
 ## DAO 列表
@@ -73,15 +75,21 @@
 - :open_file_folder: [sybil verifier worker](https://github.com/Uniswap/sybil-verifier-worker) - Uniswap 治理 ETH 地址与 Twitter 帐户验证器 (nodejs)
 - :open_file_folder: [Pando](https://github.com/pandonetwork/pando) - 基于 IPFS、ethereum 和 aragonOS 的 git 分布式远程协议
 
+## 教育学习
+
+- :open_file_folder: [DAO的研究和探索计划 (Dapp Learning DAO)](https://github.com/Dapp-Learning-DAO/Dapp-Learning/tree/main/dao) - DApp 学习指南中有关 DAO 的学习任务
+
 ## 合约开发
 
 - :open_file_folder: [CodeforDAO/contracts](https://github.com/CodeforDAO/contracts) - 适用于小型新创团队的 DAO 合约框架
-
+- :open_file_folder: [Nemesis DAO](https://github.com/NemesisDao/Contracts) - Nemesis DAO (Defi DAO) 使用的合约
+- :open_file_folder: [Bonding Curve aka．Automatic Market Maker Contract](https://github.com/relevant-community/bonding-curve) - 联合曲线 AMM 合约
 
 ## 国库管理
 
 - :open_file_folder: [LDO purchase executor](https://github.com/lidofinance/ldo-purchase-executor) -负责购买 LDO 代币回国库的合约
 - :open_file_folder: [Conviction Voting (Aragon App)](https://github.com/1Hive/conviction-voting-app) - 对信念投票结果进行资金拨款的合约
+- :open_file_folder: [Conviction Voting (Aragon App)](https://github.com/gnosis/zodiac) - 在 Gnosis Safe 上的 DAO 扩展工具
 
 ## DAO 产生器
 
@@ -93,6 +101,15 @@
 ## DAO 工具
 
 - :open_file_folder: [sourcecred/sourcecred](https://github.com/sourcecred/sourcecred) - 开放式协作的信誉协议
+- :open_file_folder: [TokenSPICE](https://github.com/tokenspice/tokenspice) - EVM 代理人为主的代币经济模型模拟器
+- :open_file_folder: [solsim](https://github.com/tokenspice/tokenspice) - Solana 复杂系统模拟器 (模拟 Defi 协议, DAO 治理)
+- :open_file_folder: [Commons Simulator](https://github.com/commons-stack/commons-simulator) - 代币经济的简易模拟器
+
+
+## 社群经营
+
+- :open_file_folder: [Giveaway bot on Twitter with Twitter API V2](https://github.com/June911/twitter_giveway_bot) - Twitter 自动抽奖脚本
+- :open_file_folder: [Conviction Voting (Aragon App)](https://github.com/1Hive/conviction-voting-app) - 对信念投票结果进行资金拨款的合约
 
 
 ## 仪表板
