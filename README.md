@@ -84,6 +84,7 @@
 - :open_file_folder: [CodeforDAO/contracts](https://github.com/CodeforDAO/contracts) - 适用于小型新创团队的 DAO 合约框架
 - :open_file_folder: [Nemesis DAO](https://github.com/NemesisDao/Contracts) - Nemesis DAO (Defi DAO) 使用的合约
 - :open_file_folder: [Bonding Curve aka．Automatic Market Maker Contract](https://github.com/relevant-community/bonding-curve) - 联合曲线 AMM 合约
+- :open_file_folder: [Bonds Module](https://github.com/relevant-community/bonding-curve) - 使用 Cosmos SDK 实现联合曲线功能
 
 ## 国库管理
 
@@ -97,10 +98,13 @@
 - :open_file_folder: [daostack/DAOstack-Hackers-Kit](https://github.com/daostack/DAOstack-Hackers-Kit) - DAOstack 提供建立 DAO 的完整工具包
 - :open_file_folder: [JoinColony/colonySDK](https://github.com/JoinColony/colonySDK) - DAO 基础设施平台 Colony 开源 SDK
 - :open_file_folder: [aidenlab/juicebox](https://github.com/aidenlab/juicebox/wiki/Download) - DAO 金库管理与募资平台 Juicebox 下载页面
+- :open_file_folder: [AmbassaDAOs](https://github.com/Multi-DAO/ambassadaos) - 让多个 DAO 一起透过 MultiDAO 发起联盟大使 DAO (Near)
+
 
 ## DAO 工具
 
 - :open_file_folder: [sourcecred/sourcecred](https://github.com/sourcecred/sourcecred) - 开放式协作的信誉协议
+- :open_file_folder: [AraCred](https://github.com/aragon/Aracred) - Aragon 客制化且自动化执行的 SourceCred
 - :open_file_folder: [TokenSPICE](https://github.com/tokenspice/tokenspice) - EVM 代理人为主的代币经济模型模拟器
 - :open_file_folder: [solsim](https://github.com/tokenspice/tokenspice) - Solana 复杂系统模拟器 (模拟 Defi 协议, DAO 治理)
 - :open_file_folder: [Commons Simulator](https://github.com/commons-stack/commons-simulator) - 代币经济的简易模拟器
@@ -108,6 +112,7 @@
 
 ## 社群经营
 
+- :open_file_folder: [Orbit Model](https://github.com/orbit-love/orbit-model) - 一个社群经营框架 (可集成 Slack, Discord, Discourse...)
 - :open_file_folder: [Giveaway bot on Twitter with Twitter API V2](https://github.com/June911/twitter_giveway_bot) - Twitter 自动抽奖脚本
 - :open_file_folder: [Conviction Voting (Aragon App)](https://github.com/1Hive/conviction-voting-app) - 对信念投票结果进行资金拨款的合约
 
