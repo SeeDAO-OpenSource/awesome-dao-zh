@@ -104,7 +104,7 @@
 - :open_file_folder: [TokenSPICE](https://github.com/tokenspice/tokenspice) - EVM 代理人为主的代币经济模型模拟器
 - :open_file_folder: [solsim](https://github.com/tokenspice/tokenspice) - Solana 复杂系统模拟器 (模拟 Defi 协议, DAO 治理)
 - :open_file_folder: [Commons Simulator](https://github.com/commons-stack/commons-simulator) - 代币经济的简易模拟器
-
+- :open_file_folder: [Zksync Gitcoin Tax Helper](https://github.com/zcstarr/zksync-tax-helper#pico-dao) - 产生在 zksync 上的交易列表以供报税
 
 ## 社群经营
 
