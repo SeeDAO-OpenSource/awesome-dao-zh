@@ -93,6 +93,10 @@
 - :open_file_folder: [daohaus-contracts](https://github.com/DAOhaus/daohaus-contracts) - DAOHaus 治理合约
 - :open_file_folder: [Moloch Minion](https://github.com/raid-guild/moloch-minion) - 由 Moloch DAO 投票通过后可呼叫执行的合约框架
 - :open_file_folder: [Open Grants](https://github.com/raid-guild/open-grants) - Raid Guild 开发的 EVM 公共物品筹资合约与网站框架
+- :open_file_folder: [token-request-app](https://github.com/1Hive/token-request-app) - 1Hive 代幣購買 App 合約
+- :open_file_folder: [redemptions-app](https://github.com/1Hive/redemptions-app) - 1Hive 代幣賣回退款 App 合約
+- :open_file_folder: [Limited Liability DAOs](https://github.com/dOrgTech/LL-DAO) - dOrg 發起匹配美國LLC公司結構的 DAO 框架
+- :open_file_folder: [Limited Liability DAOs](https://github.com/dOrgTech/LL-DAO) - dOrg 發起匹配美國LLC公司結構的 DAO 框架
 
 
 ## 国库管理
@@ -120,12 +124,29 @@
 - :open_file_folder: [solsim](https://github.com/tokenspice/tokenspice) - Solana 复杂系统模拟器 (模拟 Defi 协议, DAO 治理)
 - :open_file_folder: [Commons Simulator](https://github.com/commons-stack/commons-simulator) - 代币经济的简易模拟器
 - :open_file_folder: [Zksync Gitcoin Tax Helper](https://github.com/zcstarr/zksync-tax-helper#pico-dao) - 产生在 zksync 上的交易列表以供报税
-- :open_file_folder: [OpenRaise](https://github.com/dOrgTech/OpenRaise) - 便于以联合曲线和 [DAICO](https://coinmarketcap.com/alexandria/glossary/decentralized-autonomous-initial-coin-offerings-daico) 进行筹款募资活动的合约框架
+- :open_file_folder: [OpenRaise](https://github.com/dOrgTech/OpenRaise) - dOrg 發起便于以联合曲线和 [DAICO](https://coinmarketcap.com/alexandria/glossary/decentralized-autonomous-initial-coin-offerings-daico) 进行募资的合约框架
 - :open_file_folder: [DiscordSay](https://github.com/Ysail/DiscordSay) - 使用 Python 的 Discord 水群机器人 (自动发言灌水)
 - :open_file_folder: [IdentDeFi](https://github.com/Identdefi/contracts) - ERC721合约建立不可转让NFT达到KYC的零知识证明 [[ETHDenver 2022 获奖项目](https://mirror.xyz/foresightnews.eth/sJVgzId93eD_LgM-th7sYOlF2Nz9MgDWp9tTP_3pMkw)]
 - :open_file_folder: [Deus Ex Securitas](https://github.com/DicksonWu654/ethdenverhack) - 使用机器学习自动审计合约 (目前只能判斷重入攻擊) [[ETHDenver 2022 获奖项目](https://mirror.xyz/foresightnews.eth/sJVgzId93eD_LgM-th7sYOlF2Nz9MgDWp9tTP_3pMkw)]
-- [Blocksnap](https://github.com/jaydenwindle/blocksnap) - 对链上数据快照生成工具 (python) [[ETHDenver 2022 获奖项目](https://mirror.xyz/foresightnews.eth/sJVgzId93eD_LgM-th7sYOlF2Nz9MgDWp9tTP_3pMkw)]
-- [DeFi and DAO tokenomics](https://github.com/dgeorgiev06/awesome-ethereum-diagrams#defi-and-dao-tokenomics) - awesome-ethereum-diagrams 中 DAO 代币经济流程图
+- :open_file_folder: [Blocksnap](https://github.com/jaydenwindle/blocksnap) - 对链上数据快照生成工具 (python) [[ETHDenver 2022 获奖项目](https://mirror.xyz/foresightnews.eth/sJVgzId93eD_LgM-th7sYOlF2Nz9MgDWp9tTP_3pMkw)]
+- :open_file_folder: [DeFi and DAO tokenomics](https://github.com/dgeorgiev06/awesome-ethereum-diagrams#defi-and-dao-tokenomics) - awesome-ethereum-diagrams 中 DAO 代币经济流程图
+- :open_file_folder: [AraGraph](https://github.com/ConsenSys/aragraph) - Aragon DAO 權限關係視覺化
+- [DAOcreator](https://github.com/dOrgTech/DAOcreator) - dOrg 提供快速建立 DAO 的工具 (nodejs)
+
+## 法律会计
+
+- [LAO Templates](https://github.com/DAOresearch/lao-templates) - 提供建立一个与当前法律兼容的 DAO 模板
+- [SCoDA – Simple Code Deference Agreement](https://github.com/lex-node/SCoDA-Simple-Code-Deference-Agreement-/) - 以 SCoDA 精神设计的具法律约束力合约框架
+- [Crypto Comix Hackathon Pitch ](https://github.com/JurisProject/crypto-comix) - 符合美国非营利合作社规范的 DAO 模板 ([章程](https://github.com/DAOresearch/crypto-comix/blob/master/docs/doc5.md))
+- [LexDAO Constitution Information](https://github.com/lexDAO/LexDAO-Constitution) - LexDAO 符合美国怀俄明州非法人合作社规定的 DAO 章程模板 ([章程](https://github.com/lex-node/SCoDA-Simple-Code-Deference-Agreement-/blob/master/DAO%20Charter%20with%20Qualified%20Code%20Deference.md))
+- [The Grimoire Operating Agreement](https://github.com/metacartel/MCV/wiki/The-Grimoire---Operating-Agreement) - 将 DAO 作为投资俱乐部的 DAO 章程协议
+- [Digital Organization Designs](https://github.com/open-esq/Digital-Organization-Designs) - 透过 js,solidity 定义的公司结构与相关协作法则
+- [SCoDAO – Simple Code Deference Agreement for DAO](https://github.com/open-esq/SCoDAO-Simple-Code-Deference-Agreement-for-DAO) - 以 SCoDA 精神规定的 DAO 的运作规定
+- [TermSheets.me](https://github.com/open-esq/termsheet) - 以 [YC 标准](https://www.ycombinator.com/series_a_term_sheet/) 制定的 Term Sheet 工具协助 DAO 募资
+- [MetaCartel Venture DAO Wiki](https://github.com/metacartel/MCV/wiki) - 以 Moloch V2 为基础的 Venture DAO 合约与法律文件
+- [AIT](https://github.com/lexDAO/AIT) - 符合美国法律 [D 506(c)](https://www.investor.gov/introduction-investing/investing-basics/glossary/rule-506-regulation-d) 保护投资人隐私的合格投资人注册表 (ERC721)
+- []()
+
 
 ## 社群经营
 
