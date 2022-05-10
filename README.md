@@ -131,20 +131,20 @@
 - :open_file_folder: [Blocksnap](https://github.com/jaydenwindle/blocksnap) - 对链上数据快照生成工具 (python) [[ETHDenver 2022 获奖项目](https://mirror.xyz/foresightnews.eth/sJVgzId93eD_LgM-th7sYOlF2Nz9MgDWp9tTP_3pMkw)]
 - :open_file_folder: [DeFi and DAO tokenomics](https://github.com/dgeorgiev06/awesome-ethereum-diagrams#defi-and-dao-tokenomics) - awesome-ethereum-diagrams 中 DAO 代币经济流程图
 - :open_file_folder: [AraGraph](https://github.com/ConsenSys/aragraph) - Aragon DAO 權限關係視覺化
-- [DAOcreator](https://github.com/dOrgTech/DAOcreator) - dOrg 提供快速建立 DAO 的工具 (nodejs)
+- :open_file_folder: [DAOcreator](https://github.com/dOrgTech/DAOcreator) - dOrg 提供快速建立 DAO 的工具 (nodejs)
 
 ## 法律会计
 
-- [LAO Templates](https://github.com/DAOresearch/lao-templates) - 提供建立一个与当前法律兼容的 DAO 模板
-- [SCoDA – Simple Code Deference Agreement](https://github.com/lex-node/SCoDA-Simple-Code-Deference-Agreement-/) - 以 SCoDA 精神设计的具法律约束力合约框架
-- [Crypto Comix Hackathon Pitch ](https://github.com/JurisProject/crypto-comix) - 符合美国非营利合作社规范的 DAO 模板 ([章程](https://github.com/DAOresearch/crypto-comix/blob/master/docs/doc5.md))
-- [LexDAO Constitution Information](https://github.com/lexDAO/LexDAO-Constitution) - LexDAO 符合美国怀俄明州非法人合作社规定的 DAO 章程模板 ([章程](https://github.com/lex-node/SCoDA-Simple-Code-Deference-Agreement-/blob/master/DAO%20Charter%20with%20Qualified%20Code%20Deference.md))
-- [The Grimoire Operating Agreement](https://github.com/metacartel/MCV/wiki/The-Grimoire---Operating-Agreement) - 将 DAO 作为投资俱乐部的 DAO 章程协议
-- [Digital Organization Designs](https://github.com/open-esq/Digital-Organization-Designs) - 透过 js,solidity 定义的公司结构与相关协作法则
-- [SCoDAO – Simple Code Deference Agreement for DAO](https://github.com/open-esq/SCoDAO-Simple-Code-Deference-Agreement-for-DAO) - 以 SCoDA 精神规定的 DAO 的运作规定
-- [TermSheets.me](https://github.com/open-esq/termsheet) - 以 [YC 标准](https://www.ycombinator.com/series_a_term_sheet/) 制定的 Term Sheet 工具协助 DAO 募资
-- [MetaCartel Venture DAO Wiki](https://github.com/metacartel/MCV/wiki) - 以 Moloch V2 为基础的 Venture DAO 合约与法律文件
-- [AIT](https://github.com/lexDAO/AIT) - 符合美国法律 [D 506(c)](https://www.investor.gov/introduction-investing/investing-basics/glossary/rule-506-regulation-d) 保护投资人隐私的合格投资人注册表 (ERC721)
+- :open_file_folder: [LAO Templates](https://github.com/DAOresearch/lao-templates) - 提供建立一个与当前法律兼容的 DAO 模板
+- :open_file_folder: [SCoDA – Simple Code Deference Agreement](https://github.com/lex-node/SCoDA-Simple-Code-Deference-Agreement-/) - 以 SCoDA 精神设计的具法律约束力合约框架
+-:open_file_folder: [Crypto Comix Hackathon Pitch ](https://github.com/JurisProject/crypto-comix) - 符合美国非营利合作社规范的 DAO 模板 ([章程](https://github.com/DAOresearch/crypto-comix/blob/master/docs/doc5.md))
+- :open_file_folder: [LexDAO Constitution Information](https://github.com/lexDAO/LexDAO-Constitution) - LexDAO 符合美国怀俄明州非法人合作社规定的 DAO 章程模板 ([章程](https://github.com/lex-node/SCoDA-Simple-Code-Deference-Agreement-/blob/master/DAO%20Charter%20with%20Qualified%20Code%20Deference.md))
+- :open_file_folder: [The Grimoire Operating Agreement](https://github.com/metacartel/MCV/wiki/The-Grimoire---Operating-Agreement) - 将 DAO 作为投资俱乐部的 DAO 章程协议
+- :open_file_folder: [Digital Organization Designs](https://github.com/open-esq/Digital-Organization-Designs) - 透过 js,solidity 定义的公司结构与相关协作法则
+- :open_file_folder: [SCoDAO – Simple Code Deference Agreement for DAO](https://github.com/open-esq/SCoDAO-Simple-Code-Deference-Agreement-for-DAO) - 以 SCoDA 精神规定的 DAO 的运作规定
+- :open_file_folder: [TermSheets.me](https://github.com/open-esq/termsheet) - 以 [YC 标准](https://www.ycombinator.com/series_a_term_sheet/) 制定的 Term Sheet 工具协助 DAO 募资
+- :open_file_folder: [MetaCartel Venture DAO Wiki](https://github.com/metacartel/MCV/wiki) - 以 Moloch V2 为基础的 Venture DAO 合约与法律文件
+- :open_file_folder: [AIT](https://github.com/lexDAO/AIT) - 符合美国法律 [D 506(c)](https://www.investor.gov/introduction-investing/investing-basics/glossary/rule-506-regulation-d) 保护投资人隐私的合格投资人注册表 (ERC721)
 - []()
 
 
