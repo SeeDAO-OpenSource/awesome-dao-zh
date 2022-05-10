@@ -123,7 +123,7 @@
 - :open_file_folder: [OpenRaise](https://github.com/dOrgTech/OpenRaise) - 便于以联合曲线和 [DAICO](https://coinmarketcap.com/alexandria/glossary/decentralized-autonomous-initial-coin-offerings-daico) 进行筹款募资活动的合约框架
 - :open_file_folder: [DiscordSay](https://github.com/Ysail/DiscordSay) - 使用 Python 的 Discord 水群机器人 (自动发言灌水)
 - :open_file_folder: [IdentDeFi](https://github.com/Identdefi/contracts) - ERC721合约建立不可转让NFT达到KYC的零知识证明 [[ETHDenver 2022 获奖项目](https://mirror.xyz/foresightnews.eth/sJVgzId93eD_LgM-th7sYOlF2Nz9MgDWp9tTP_3pMkw)]
-- :open_file_folder: [Deus Ex Securitas](https://github.com/DicksonWu654/ethdenverhack) - 使用机器学习自动审计合约 [[ETHDenver 2022 获奖项目](https://mirror.xyz/foresightnews.eth/sJVgzId93eD_LgM-th7sYOlF2Nz9MgDWp9tTP_3pMkw)]
+- :open_file_folder: [Deus Ex Securitas](https://github.com/DicksonWu654/ethdenverhack) - 使用机器学习自动审计合约 (目前只能判斷重入攻擊) [[ETHDenver 2022 获奖项目](https://mirror.xyz/foresightnews.eth/sJVgzId93eD_LgM-th7sYOlF2Nz9MgDWp9tTP_3pMkw)]
 - [Blocksnap](https://github.com/jaydenwindle/blocksnap) - 对链上数据快照生成工具 (python) [[ETHDenver 2022 获奖项目](https://mirror.xyz/foresightnews.eth/sJVgzId93eD_LgM-th7sYOlF2Nz9MgDWp9tTP_3pMkw)]
 - [DeFi and DAO tokenomics](https://github.com/dgeorgiev06/awesome-ethereum-diagrams#defi-and-dao-tokenomics) - awesome-ethereum-diagrams 中 DAO 代币经济流程图
 
