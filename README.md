@@ -121,7 +121,11 @@
 - :open_file_folder: [Commons Simulator](https://github.com/commons-stack/commons-simulator) - 代币经济的简易模拟器
 - :open_file_folder: [Zksync Gitcoin Tax Helper](https://github.com/zcstarr/zksync-tax-helper#pico-dao) - 产生在 zksync 上的交易列表以供报税
 - :open_file_folder: [OpenRaise](https://github.com/dOrgTech/OpenRaise) - 便于以联合曲线和 [DAICO](https://coinmarketcap.com/alexandria/glossary/decentralized-autonomous-initial-coin-offerings-daico) 进行筹款募资活动的合约框架
-- 
+- :open_file_folder: [DiscordSay](https://github.com/Ysail/DiscordSay) - 使用 Python 的 Discord 水群机器人 (自动发言灌水)
+- :open_file_folder: [IdentDeFi](https://github.com/Identdefi/contracts) - ERC721合约建立不可转让NFT达到KYC的零知识证明 [[ETHDenver 2022 获奖项目](https://mirror.xyz/foresightnews.eth/sJVgzId93eD_LgM-th7sYOlF2Nz9MgDWp9tTP_3pMkw)]
+- :open_file_folder: [Deus Ex Securitas](https://github.com/DicksonWu654/ethdenverhack) - 使用机器学习自动审计合约 [[ETHDenver 2022 获奖项目](https://mirror.xyz/foresightnews.eth/sJVgzId93eD_LgM-th7sYOlF2Nz9MgDWp9tTP_3pMkw)]
+- [Blocksnap](https://github.com/jaydenwindle/blocksnap) - 对链上数据快照生成工具 (python) [[ETHDenver 2022 获奖项目](https://mirror.xyz/foresightnews.eth/sJVgzId93eD_LgM-th7sYOlF2Nz9MgDWp9tTP_3pMkw)]
+- [DeFi and DAO tokenomics](https://github.com/dgeorgiev06/awesome-ethereum-diagrams#defi-and-dao-tokenomics) - awesome-ethereum-diagrams 中 DAO 代币经济流程图
 
 ## 社群经营
 
@@ -131,6 +135,10 @@
 - :open_file_folder: [Conviction Voting (Aragon App)](https://github.com/1Hive/conviction-voting-app) - 对信念投票结果进行资金拨款的合约
 - :open_file_folder: [ArgoDisco](https://github.com/acolytec3/ArgoDisco) - Aragon DAO Discord 机器人
 - :open_file_folder: [Web 3 Revenue Primitives](https://github.com/FEMBusinessModelsRing/web3_revenue_primitives) - Web3 商业模式分析框架
+- :open_file_folder: [Gitcoin DAO OKRs Example](https://github.com/dex-guru/dao-research/blob/main/DAO%20as%20a%20Product%200f09458415ef489d805f76fc6fc7d6a4/Metrics%20a1525449914f49e7bb83fbf3c4b3d13a/Gitcoin%20DAO%20OKRs%20Example%2006548e00ff1a4e24b064fc4d278ab740.md) - Gitcoin DAO 采用 OKRs 范例
+- :open_file_folder: [Onboarding & Working Groups &　Decision Making Process](https://github.com/dex-guru/dao-research/blob/main/DAO%20as%20a%20Product%200f09458415ef489d805f76fc6fc7d6a4/Metrics%20a1525449914f49e7bb83fbf3c4b3d13a/Gitcoin%20DAO%20OKRs%20Example%2006548e00ff1a4e24b064fc4d278ab740.md) - Index Coop Onboarding 与工作小组处理流程
+- :open_file_folder: [DAO Metrics](https://github.com/dex-guru/dao-research/blob/main/DAO%20as%20a%20Product%200f09458415ef489d805f76fc6fc7d6a4/Metrics%20a1525449914f49e7bb83fbf3c4b3d13a/DAO%20Metrics%207c04a1bd65584e368113602cfef09c58.md) - DexGuru 整理出基于社会学与经济学理论的 DAO 衡量指标
+- :open_file_folder: [SubDAO Mechanics](https://github.com/dex-guru/dao-research/blob/main/DAO%20as%20a%20Product%200f09458415ef489d805f76fc6fc7d6a4/SubDAO%20Mechanics%209ada5f159625471b94ed9b05e188180b.md) - DexGuru 整理 SubDAO 的运作机制流程图
 
 ## 仪表板
 
